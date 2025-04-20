@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\validators\\taskdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\validators\\taskdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\darshan.patil\\source\\repos\\taskmanagerapi\\taskmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A880C69C-DBB0-4955-94A9-E5D4791ADF56}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\appsettings.json",
+              "RelativeToolTip": "TaskManagerAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T07:39:30.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAACIAAADAyszMzMwmwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:50:53.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:50:10.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Services\\TaskService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA/wBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:49:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Services\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:48:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:48:15.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Services\\IAuthService.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:47:33.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA/wBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:46:21.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:45:36.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Validators\\TaskDtoValidator.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Validators\\TaskDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Validators\\TaskDtoValidator.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Validators\\TaskDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:44:38.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "TaskManagerAPI\\DTOs\\TaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:43:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "TaskManagerAPI\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:42:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Model\\User.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:41:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Model\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Model\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Model\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Model\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:41:19.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAACAl5mZmZkZwBkAAADEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:39:48.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Darshan.Patil\\source\\repos\\TaskManagerAPI\\TaskManagerAPI\\Program.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:33:12.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
